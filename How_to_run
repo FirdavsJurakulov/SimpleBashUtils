@@ -1,0 +1,1 @@
+To run the files, open the src/cat or src/grep. In those directories run make command. No need to specify a target. Then run a compiled program
